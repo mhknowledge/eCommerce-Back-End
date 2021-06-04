@@ -18,9 +18,6 @@ The task was to code/build the back end of an eCommerce Site.  Starter code was 
 
   Github Repos: https://github.com/mhknowledge/eCommerce-Back-End
 
-![Terminal](https://user-images.githubusercontent.com/77814900/120232407-840bb080-c221-11eb-9fb5-0b0fb4908f75.png)
-
-![Insomnia](https://user-images.githubusercontent.com/77814900/120227821-ef508500-c217-11eb-88aa-c6e0023b6be7.png)
 
 ## License
 ## [![License](https://img.shields.io/badge/License-MIT%202.0-blue.svg)](https://opensource.org/licenses/MIT)
