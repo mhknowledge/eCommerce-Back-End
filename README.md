@@ -18,7 +18,9 @@ The task was to code/build the back end of an eCommerce Site.  Starter code was 
 
 Github Repos: https://github.com/mhknowledge/eCommerce-Back-End
 
-![Terminal](https://user-images.githubusercontent.com/79174643/120754269-6ddc4980-c4da-11eb-85ef-2df97a84722d.png)
+![Terminal Node server.js](https://user-images.githubusercontent.com/79174643/120754269-6ddc4980-c4da-11eb-85ef-2df97a84722d.png)
+
+![Terminal Node seeds](https://user-images.githubusercontent.com/79174643/120755894-8ea59e80-c4dc-11eb-86c3-8deab515acd2.png)
 
 ![Insomnia](https://user-images.githubusercontent.com/79174643/120755454-01fae080-c4dc-11eb-91fb-129d782673a9.png)
 
