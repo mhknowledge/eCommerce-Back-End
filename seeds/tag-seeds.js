@@ -1,4 +1,4 @@
-const { Tag } = require('../../upenn-phi-fsf-pt-02-2021-u-c/13-ORM/02-Homework/Develop/models');
+const { Tag } = require('..models');
 
 const tagData = [
   {
